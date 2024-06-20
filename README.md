@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Currently, I'm an RPA Developer, Backend Developer, and Chatbot Developer. I love programming, discussing technology, and soccer ⚽. <br/>
 As a developer, I write and read code, participate in daily scrums with the team, and continuously learn. <br/>
 
-    🔭 I’m currently working at <a href="https://redesignconsultoria.com.br/" target="_blank">Redesign Consultoria</a>
+    🔭 I’m currently working at <a href="https://redesignconsultoria.com.br" target="_blank">Redesign Consultoria</a>
     🌱 I’m currently a Backend Developer, RPA Developer, and Chatbot Developer
     ⚙️ My main tech stacks are: Node.js, UiPath, and IBM Watson Assistant
 
