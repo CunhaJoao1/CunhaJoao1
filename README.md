@@ -20,13 +20,13 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="100" height="100">
 </div>
 
-Currently i'm a RPA Developer and Frontend Developer. I love programming, speek about technology and soccer ⚽. <br/>
-As a developer i write and read code, do daily scrum with the team, continuous learning. <br/>
+Currently, I'm an RPA Developer, Backend Developer, and Chatbot Developer. I love programming, discussing technology, and soccer ⚽. <br/>
+As a developer, I write and read code, participate in daily scrums with the team, and continuously learn. <br/>
 
-- 🔭 I’m currently working on <a href="https://redesignconsultoria.com.br/" target="_blank">Redesing Consultoria<a/>
-- 🌱 I’m currently learning Data Base to work with Web Development
-- 👯 I’m looking to collaborate on React Projects
-- 💗 I love Web Development, ReactJS and TypeScript
+    🔭 I’m currently working at <a href="https://redesignconsultoria.com.br/" target="_blank">Redesign Consultoria</a>
+    🌱 I’m currently a Backend Developer, RPA Developer, and Chatbot Developer
+    ⚙️ My main tech stacks are: Node.js, UiPath, and IBM Watson Assistant
+
 
 You can reach me: 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://victorcunha.com.br/)
